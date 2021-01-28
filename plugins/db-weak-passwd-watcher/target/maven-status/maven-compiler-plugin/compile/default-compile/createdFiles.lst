@@ -1,0 +1,5 @@
+threatarrest/monitoring/dbpasswdmonitoring/DbPasswdWatcher.class
+META-INF/extensions.idx
+threatarrest/monitoring/dbpasswdmonitoring/AbPasswdMysqlWatcher.class
+threatarrest/monitoring/dbpasswdmonitoring/TaskPasswdMysqlWatcher.class
+threatarrest/monitoring/dbpasswdmonitoring/DbPasswdWatcher$DbPasswdWatcherExtension.class

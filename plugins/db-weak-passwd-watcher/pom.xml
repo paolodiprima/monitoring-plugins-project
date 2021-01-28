@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <parent>
+        <groupId>threatarrest.monitoring</groupId>
+        <artifactId>monitoring-plugins-project-plugins</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>db-weak-passwd-watcher</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <name>Module db-passwd watcher</name>
+
+
+    <properties>
+        <plugin.id>db-weak-passwd-watcher-id</plugin.id>
+        <plugin.class>threatarrest.monitoring.dbpasswdmonitoring.DbPasswdWatcher</plugin.class>
+        <plugin.version>1.0-SNAPSHOT</plugin.version>
+        <plugin.provider/>
+        <plugin.dependencies/>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+            <version>2.6</version>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.21</version>
+        </dependency>
+    </dependencies>
+
+</project>

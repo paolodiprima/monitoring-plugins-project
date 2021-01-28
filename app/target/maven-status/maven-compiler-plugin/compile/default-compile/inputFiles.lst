@@ -1,0 +1,13 @@
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/Greeting.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/Configuration.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/IPluginsDownloader.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/InputParser.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/IExtensionPoint.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/MonitoringAgent.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/Sender.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/Boot.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/Message.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/exceptions/MissingPluginsInputException.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/exceptions/WrongArgumentsFormat.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/GitConnect.java
+/home/paolo/IdeaProjects/monitoring-plugins-project/app/src/main/java/threatarrest/monitoring/WhazzupGreeting.java

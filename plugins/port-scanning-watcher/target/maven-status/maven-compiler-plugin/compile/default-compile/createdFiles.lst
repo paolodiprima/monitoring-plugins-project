@@ -1,0 +1,5 @@
+META-INF/extensions.idx
+threatarrest/monitoring/servicemonitoring/AbPortScanningWatcher.class
+threatarrest/monitoring/servicemonitoring/PortScanningWatcher$PortScanningExtension.class
+threatarrest/monitoring/servicemonitoring/PortScanningWatcher.class
+threatarrest/monitoring/servicemonitoring/TaskPortScanning.class

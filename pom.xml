@@ -47,7 +47,8 @@
         </resources>
     </build>
 
-<modules>  <module>app</module>
+<modules>
+    <module>app</module>
     <module>plugins</module>
-  </modules>
+</modules>
 </project>

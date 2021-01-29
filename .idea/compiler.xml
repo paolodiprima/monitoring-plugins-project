@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="port-scanning-watcher" />
         <module name="db-weak-passwd-watcher" />
         <module name="file-editing-watcher" />
         <module name="threatarrest-monitoring-app" />

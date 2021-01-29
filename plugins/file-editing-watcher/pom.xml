@@ -3,7 +3,7 @@
 
     <parent>
         <groupId>threatarrest.monitoring</groupId>
-        <artifactId>monitoring-plugins-project-plugins</artifactId>
+        <artifactId>threatarrest-monitoring-plugins</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 

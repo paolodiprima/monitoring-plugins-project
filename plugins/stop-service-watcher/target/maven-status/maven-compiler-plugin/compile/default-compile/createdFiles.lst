@@ -1,0 +1,5 @@
+threatarrest/monitoring/stopservice/AbServiceWatcher.class
+threatarrest/monitoring/stopservice/ServiceWatcher.class
+META-INF/extensions.idx
+threatarrest/monitoring/stopservice/TaskServiceWatcher.class
+threatarrest/monitoring/stopservice/ServiceWatcher$TelnetWatcherExtension.class

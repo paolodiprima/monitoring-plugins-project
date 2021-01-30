@@ -19,7 +19,6 @@ public abstract class AbPortScanningWatcher {
 
         this.port = port;
         this.node = node;
-
     }
 
     /***
@@ -82,7 +81,6 @@ public abstract class AbPortScanningWatcher {
     }
 
     abstract Message onPortScanning();
-
 }
 
 

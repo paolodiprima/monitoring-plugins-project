@@ -9,6 +9,7 @@
         <module name="port-scanning-watcher" />
         <module name="db-weak-passwd-watcher" />
         <module name="file-editing-watcher" />
+        <module name="stop-service-watcher" />
         <module name="threatarrest-monitoring-app" />
       </profile>
     </annotationProcessing>

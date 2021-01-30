@@ -87,5 +87,6 @@
     <module>db-weak-passwd-watcher</module>
     <module>file-editing-watcher</module>
     <module>port-scanning-watcher</module>
+    <module>stop-service-watcher</module>
   </modules>
 </project>

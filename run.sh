@@ -9,6 +9,7 @@ mkdir -p dist/plugins
 
 # copy plugins to "dist" directory
 cp plugins/*/target/*-all.jar dist/plugins/
+cp plugins/*/target/*-all.jar  /home/paolo/Scrivania/pluginFiles/plugintest2/
 cp plugins/enabled.txt dist/plugins/
 cp plugins/disabled.txt dist/plugins/
 

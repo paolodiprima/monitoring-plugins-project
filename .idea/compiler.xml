@@ -7,10 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="port-scanning-watcher" />
+        <module name="monitoring-agent" />
         <module name="db-weak-passwd-watcher" />
         <module name="file-editing-watcher" />
         <module name="stop-service-watcher" />
-        <module name="monitoring-plugins-project-app" />
         <module name="threatarrest-monitoring-app" />
       </profile>
     </annotationProcessing>
